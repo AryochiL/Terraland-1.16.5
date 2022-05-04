@@ -1,0 +1,9 @@
+{ 
+"type": "terraland:workshop",
+"result": {"item": "terraland:oriron", "count": 1},
+"ingredients": [
+{"item": "arknights:oriron_shard"}
+],
+"counts":[3],
+"items": ["arknights:oriron_shard"]
+}

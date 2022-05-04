@@ -1,0 +1,15 @@
+{
+  "type": "arknights:workshop",
+  "result": {"item": "arknights:white_horse_kohl", "count": 1},
+  "ingredients": [
+    {"item": "arknights:loxic_kohl"},
+    {"item": "arknights:sugar_pack"},
+    {"item": "arknights:rma70_12"}
+  ],
+  "counts":[1,1,1],
+  "items": [
+    "arknights:loxic_kohl",
+    "arknights:sugar_pack",
+    "arknights:rma70_12"
+  ]
+}

@@ -1,0 +1,9 @@
+{ 
+"type": "terraland:workshop",
+"result": {"item": "terraland:integrated_device", "count": 1},
+"ingredients": [
+{"item": "terraland:device"}
+],
+"counts":[4],
+"items": ["arknights:device"]
+}

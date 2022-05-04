@@ -1,0 +1,15 @@
+{
+  "type": "arknights:workshop",
+  "result": {"item": "arknights:sugar_lump", "count": 1},
+  "ingredients": [
+    {"item": "arknights:sugar_pack"},
+    {"item": "arknights:oriron_cluster"},
+    {"item": "arknights:manganese_ore"}
+  ],
+  "counts":[2,1,1],
+  "items": [
+    "arknights:sugar_pack",
+    "arknights:oriron_cluster",
+    "arknights:manganese_ore"
+  ]
+}

@@ -1,0 +1,14 @@
+{ 
+  "type": "terraland:workshop",
+  "result": {"item": "terraland:d32_steel", "count": 1},
+  "ingredients": [
+    {"item": "terraland:manganese_trihydrate"},
+    {"item": "terraland:grindstone_pentahydrate"},
+    {"item": "terraland:rma70_24"}
+  ],
+  "counts":[1,1,1],
+  "items": [
+    "terraland:manganese_trihydrate",
+    "terraland:grindstone_pentahydrate",
+    "terraland:rma70_24"]
+}

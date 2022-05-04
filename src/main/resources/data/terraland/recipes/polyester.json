@@ -1,0 +1,11 @@
+{
+  "type": "arknights:workshop",
+  "result": {"item": "arknights:polyester", "count": 1},
+  "ingredients": [
+    {"item": "arknights:ester"}
+  ],
+  "counts":[3],
+  "items": [
+    "arknights:ester"
+  ]
+}

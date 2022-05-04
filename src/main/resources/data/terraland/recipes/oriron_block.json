@@ -1,0 +1,9 @@
+{ 
+"type": "arknights:workshop",
+"result": {"item": "arknights:oriron_block", "count": 1},
+"ingredients": [
+{"item": "arknights:oriron_cluster"},{"item": "arknights:integrated_device"},{"item": "arknights:polyester_pack"}
+],
+"counts":[2,1,1],
+"items": ["arknights:oriron_cluster","arknights:integrated_device","arknights:polyester_pack"]
+}

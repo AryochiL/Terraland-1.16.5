@@ -1,0 +1,11 @@
+{
+  "type": "terraland:workshop",
+  "result": {"item": "terraland:orirock_cube", "count": 1},
+  "ingredients": [
+    {"item": "terraland:orirock"}
+  ],
+  "counts":[3],
+  "items": [
+    "terraland:orirock"
+  ]
+}

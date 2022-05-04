@@ -1,0 +1,15 @@
+{
+  "type": "terraland:workshop",
+  "result": {"item": "terraland:grindstone_pentahydrate", "count": 1},
+  "ingredients": [
+    {"item": "terraland:grindstone"},
+    {"item": "terraland:oriron_cluster"},
+    {"item": "terraland:integrated_device"}
+  ],
+  "counts":[1,1,1],
+  "items": [
+    "terraland:grindstone",
+    "terraland:oriron_cluster",
+    "arknights:integrated_device"
+  ]
+}

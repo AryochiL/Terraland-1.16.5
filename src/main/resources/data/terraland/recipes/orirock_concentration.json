@@ -1,0 +1,11 @@
+{
+  "type": "arknights:workshop",
+  "result": {"item": "arknights:orirock_concentration", "count": 1},
+  "ingredients": [
+    {"item": "arknights:orirock_cluster"}
+  ],
+  "counts":[4],
+  "items": [
+    "arknights:orirock_cluster"
+  ]
+}

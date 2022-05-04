@@ -1,0 +1,15 @@
+{
+  "type": "terraland:workshop",
+  "result": {"item": "terraland:rma70_24", "count": 1},
+  "ingredients": [
+    {"item": "terraland:rma70_12"},
+    {"item": "arknights:orirock_cluster"},
+    {"item": "arknights:aketon"}
+  ],
+  "counts":[1,2,1],
+  "items": [
+    "arknights:rma70_12",
+    "arknights:orirock_cluster",
+    "arknights:aketon"
+  ]
+}

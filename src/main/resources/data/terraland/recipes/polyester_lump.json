@@ -1,0 +1,15 @@
+{
+  "type": "terraland:workshop",
+  "result": {"item": "terraland:polyester_lump", "count": 1},
+  "ingredients": [
+    {"item": "terraland:polyester_pack"},
+    {"item": "terraland:aketon"},
+    {"item": "terraland:loxic_kohl"}
+  ],
+  "counts":[2,1,1],
+  "items": [
+    "terraland:polyester_pack",
+    "arknights:aketon",
+    "arknights:loxic_kohl"
+  ]
+}

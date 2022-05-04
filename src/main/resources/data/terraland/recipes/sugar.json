@@ -1,0 +1,11 @@
+{
+  "type": "terraland:workshop",
+  "result": {"item": "terraland:sugar", "count": 1},
+  "ingredients": [
+    {"item": "terraland:sugar_substitute"}
+  ],
+  "counts":[3],
+  "items": [
+    "arknights:sugar_substitute"
+  ]
+}

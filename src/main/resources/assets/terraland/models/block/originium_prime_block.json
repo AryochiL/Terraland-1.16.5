@@ -1,0 +1,9 @@
+{
+  "parent": "forge:block/default",
+  "loader": "forge:obj",
+  "model": "terraland:models/block/originium_prime_block.obj",
+  "flip-v": true,
+  "texyures": {
+    "particle": "block/originium_top"
+  }
+}

@@ -1,0 +1,44 @@
+{
+	"__comment":"This model was created with freundTech's Blender2Minecraft converter (BETA)",
+	"parent": "block/block",
+	"ambientocclusion":true,
+	"elements":[],
+	"textures":{
+		"0": "terraland:block/sg_core",
+		"1": "terraland:block/sg_frame",
+		"particle": "terraland:block/sg_core"
+	},
+	"display":{
+		"head":{
+			"rotation":[0.0,0.0,0.0],
+			"translation":[0.0,0.0,0.0],
+			"scale":[1.0,1.0,1.0]},
+			"firstperson_lefthand":{"rotation":[0.0,45.0,0.0],
+			"translation":[0.0,0.0,0.0],
+			"scale":[0.4,0.4,0.4]},
+		"firstperson_righthand":{
+			"rotation":[0.0,45.0,0.0],
+			"translation":[0.0,0.0,0.0],
+			"scale":[0.4,0.4,0.4]},
+		"gui":{
+			"rotation":[30.0,225.0,0.0],
+			"translation":[0.0,0.0,0.0],
+			"scale":[0.35,0.35,0.35]},
+		"fixed":{
+			"rotation":[0.0,0.0,0.0],
+			"translation":[0.0,0.0,0.0],
+			"scale":[0.5,0.5,0.5]},
+		"thirdperson_lefthand":{
+			"rotation":[75.0,45.0,0.0],
+			"translation":[0.0,2.5,0.0],
+			"scale":[0.38,0.38,0.38]},
+		"ground":{
+			"rotation":[0.0,0.0,0.0],
+			"translation":[0.0,3.0,0.0],
+			"scale":[0.25,0.25,0.25]},
+		"thirdperson_righthand":{
+			"rotation":[75.0,45.0,0.0],
+			"translation":[0.0,2.5,0.0],
+			"scale":[0.38,0.38,0.38]}
+		}
+	}

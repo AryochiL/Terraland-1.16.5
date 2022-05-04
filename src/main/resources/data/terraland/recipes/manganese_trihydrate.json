@@ -1,0 +1,15 @@
+{
+  "type": "arknights:workshop",
+  "result": {"item": "arknights:manganese_trihydrate", "count": 1},
+  "ingredients": [
+    {"item": "arknights:manganese_ore"},
+    {"item": "arknights:polyester_pack"},
+    {"item": "arknights:loxic_kohl"}
+  ],
+  "counts":[2,1,1],
+  "items": [
+    "arknights:manganese_ore",
+    "arknights:polyester_pack",
+    "arknights:loxic_kohl"
+  ]
+}

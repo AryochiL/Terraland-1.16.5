@@ -1,0 +1,13 @@
+{
+  "type": "terraland:workshop",
+  "result": {"item": "terraland:bipolar_nanoflake", "count": 1},
+  "ingredients": [
+    {"item": "terraland:optimized_device"},
+    {"item": "terraland:white_horse_kohl"}
+  ],
+  "counts":[1,2],
+  "items": [
+    "terraland:optimized_device",
+    "terraland:white_horse_kohl"
+  ]
+}

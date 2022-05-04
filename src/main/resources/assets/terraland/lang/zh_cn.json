@@ -1,0 +1,70 @@
+{
+  "itemGroup.terraland": "明日方舟",
+
+  "item.terraland.exusiai": "招聘合同『能天使』",
+  "item.terraland.amiya": "招聘合同『阿米娅』",
+
+  "item.terraland.originium_shard": "源石碎片",
+  "item.terraland.originite_prime": "至纯源石",
+  "item.terraland.pure_gold":"赤金",
+  "block.terraland.orundum": "合成玉",
+  
+  "item.terraland.jb":"『能天使』Vector",
+  "item.terraland.truesilver_sword":"『银灰』真银剑",
+
+  "item.terraland.orirock": "源岩",
+  "block.terraland.orirock_cube": "固源岩",
+  "item.terraland.orirock_cluster": "固源岩组",
+  "item.terraland.orirock_concentration": "提纯源岩",
+
+  "item.terraland.sugar_substitute": "代糖",
+  "item.terraland.sugar": "糖",
+  "item.terraland.sugar_pack": "糖组",
+  "item.terraland.sugar_lump": "糖聚块",
+
+  "item.terraland.ester": "酯原料",
+  "item.terraland.polyester": "聚酸酯",
+  "item.terraland.polyester_pack": "聚酸酯组",
+  "item.terraland.polyester_lump": "聚酸酯块",
+
+  "item.terraland.oriron_shard": "异铁碎片",
+  "item.terraland.oriron": "异铁",
+  "item.terraland.oriron_cluster": "异铁组",
+  "item.terraland.oriron_block": "异铁块",
+
+  "item.terraland.diketon": "双酮",
+  "item.terraland.polyketon": "酮凝集",
+  "item.terraland.aketon": "酮凝集组",
+  "item.terraland.keton_colloid": "酮阵列",
+
+  "item.terraland.damaged_device": "破损装置",
+  "item.terraland.device": "装置",
+  "item.terraland.integrated_device": "全新装置",
+  "item.terraland.optimized_device": "改量装置",
+
+  "item.terraland.loxic_kohl": "扭转醇",
+  "item.terraland.white_horse_kohl": "白马醇",
+
+  "item.terraland.manganese_ore": "轻锰矿",
+  "item.terraland.manganese_trihydrate": "三水锰矿",
+
+  "item.terraland.rma70_12": "RMA70-12",
+  "item.terraland.rma70_24": "RMA70-24",
+
+  "item.terraland.grindstone": "研磨石",
+  "item.terraland.grindstone_pentahydrate": "五水研磨石",
+
+  "item.terraland.d32_steel": "D32钢",
+  "item.terraland.bipolar_nanoflake": "双极纳米片",
+  "item.terraland.polymerization_preparation": "聚合剂",
+
+  "block.terraland.originite_prime_block": "至纯源石(装饰)",
+  
+  "block.terraland.trading_home":"制造站",
+  "block.terraland.workshop": "加工站",
+
+  "entity.terraland.exusiai":"能天使",
+  "entity.terraland.amiya":"阿米娅",
+  "entity.terraland.originium_slug":"源石虫",
+  "entity.terraland.crownslayer":"弑君者"
+}

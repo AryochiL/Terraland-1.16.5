@@ -1,0 +1,9 @@
+{ 
+"type": "arknights:workshop",
+"result": {"item": "arknights:device", "count": 1},
+"ingredients": [
+{"item": "arknights:damaged_device"}
+],
+"counts":[3],
+"items": ["arknights:damaged_device"]
+}

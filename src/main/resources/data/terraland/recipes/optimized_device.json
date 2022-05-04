@@ -1,0 +1,9 @@
+{ 
+"type": "arknights:workshop",
+"result": {"item": "arknights:optimized_device", "count": 1},
+"ingredients": [
+{"item": "arknights:integrated_device"},{"item": "arknights:orirock_cluster"},{"item": "arknights:grindstone"}
+],
+"counts":[1,2,1],
+"items": ["arknights:integrated_device","arknights:orirock_cluster","arknights:grindstone"]
+}

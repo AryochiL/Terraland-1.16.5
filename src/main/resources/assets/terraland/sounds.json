@@ -1,0 +1,42 @@
+{
+    "vehicle_n":
+    {
+        "sounds": [ "terraland:exusiai/vehicle_n" ],
+        "subtitle": "terraland.subtitle.vehicle_n"
+    },
+	"vehicle_h":
+	{
+		"sounds": [ "terraland:exusiai/vehicle_h" ],
+		"subtitle": "terraland.subtitle.vehicle_h"
+	},
+	"103_skill1":
+	{
+		"sounds": [ "terraland:exusiai/skill1" ],
+		"subtitle": "terraland.subtitle.skill1"
+	},
+	"103_skill2":
+	{
+		"sounds": [ "terraland:exusiai/skill2" ],
+		"subtitle": "terraland.subtitle.skill2"
+	},
+	"103_skill3":
+	{
+		"sounds": [ "terraland:exusiai/skill3" ],
+		"subtitle": "terraland.subtitle.skill3"
+	},
+	"103_skill4":
+	{
+		"sounds": [ "terraland:exusiai/skill4" ],
+		"subtitle": "terraland.subtitle.skill4"
+	},
+	"truesilver_slash":
+	{
+		"sounds": [ "terraland:silverash/truesilver_slash" ],
+		"subtitle": "terraland.subtitle.truesilver_slash"
+	},
+	"operator_dead":
+	{
+		"sounds": [ "terraland:operator_dead" ],
+		"subtitle": "terraland.subtitle.operator_dead"
+	}
+}

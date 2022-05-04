@@ -1,0 +1,15 @@
+{
+  "type": "arknights:workshop",
+  "result": {"item": "arknights:polymerization_preparation", "count": 1},
+  "ingredients": [
+    {"item": "arknights:orirock_concentration"},
+    {"item": "arknights:oriron_block"},
+    {"item": "arknights:keton_colloid"}
+  ],
+  "counts":[2,1,1],
+  "items": [
+    "arknights:orirock_concentration",
+    "arknights:oriron_block",
+    "arknights:keton_colloid"
+  ]
+}

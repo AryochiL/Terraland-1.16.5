@@ -1,0 +1,9 @@
+{ 
+"type": "arknights:workshop",
+"result": {"item": "arknights:keton_colloid", "count": 1},
+"ingredients": [
+{"item": "arknights:aketon"},{"item": "arknights:sugar_pack"},{"item": "arknights:manganese_ore"}
+],
+"counts":[2,1,1],
+"items": ["arknights:aketon","arknights:sugar_pack","arknights:manganese_ore"]
+}

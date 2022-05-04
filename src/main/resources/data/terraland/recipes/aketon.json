@@ -1,0 +1,9 @@
+{ 
+"type": "arknights:workshop",
+"result": {"item": "arknights:aketon", "count": 1},
+"ingredients": [
+{"item": "arknights:polyketon"}
+],
+"counts":[4],
+"items": ["arknights:polyketon"]
+}

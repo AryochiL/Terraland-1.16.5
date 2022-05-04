@@ -1,0 +1,70 @@
+{
+  "itemGroup.terraland": "Arknights",
+
+  "item.terraland.exusiai": "Operator Exusiai's Contract",
+  "item.terraland.amiya": "Operator Amiya's Contract",
+
+  "item.terraland.originium_shard": "Originium Shard",
+  "item.terraland.originite_prime": "Originite Prime",
+  "item.terraland.pure_gold":"Pure Gold",
+  "block.terraland.orundum": "Orundum",
+  
+  "item.terraland.jb":"Exusiai's Vector",
+  "item.terraland.truesilver_sword":"Silverash's Truesilver Sword",
+
+  "item.terraland.orirock": "Orirock",
+  "block.terraland.orirock_cube": "Orirock Cube",
+  "item.terraland.orirock_cluster": "Orirock Cluster",
+  "item.terraland.orirock_concentration": "Orirock Concentration",
+
+  "item.terraland.sugar_substitute": "Sugar Substitute",
+  "item.terraland.sugar": "Sugar",
+  "item.terraland.sugar_pack": "Sugar  Pack",
+  "item.terraland.sugar_lump": "Sugar Lump",
+
+  "item.terraland.ester": "Ester",
+  "item.terraland.polyester": "Polyester",
+  "item.terraland.polyester_pack": "Polyester Pack",
+  "item.terraland.polyester_lump": "Polyester Lump",
+
+  "item.terraland.oriron_shard": "Oriron Shard",
+  "item.terraland.oriron": "Oriron",
+  "item.terraland.oriron_cluster": "Oriron Cluster",
+  "item.terraland.oriron_block": "Oriron Block",
+
+  "item.terraland.diketon": "Diketon",
+  "item.terraland.polyketon": "Polyketon",
+  "item.terraland.aketon": "Aketon",
+  "item.terraland.keton_colloid": "Keton Colloid",
+
+  "item.terraland.damaged_device": "Damaged Device",
+  "item.terraland.device": "Device",
+  "item.terraland.integrated_device": "Integrated Device",
+  "item.terraland.optimized_device": "Optimized Device",
+
+  "item.terraland.loxic_kohl": "Loxic Kohl",
+  "item.terraland.white_horse_kohl": "White Horse Kohl",
+
+  "item.terraland.manganese_ore": "Manganese Ore",
+  "item.terraland.manganese_trihydrate": "Manganese Trihydrate",
+
+  "item.terraland.rma70_12": "RMA70-12",
+  "item.terraland.rma70_24": "RMA70-24",
+
+  "item.terraland.grindstone": "Grindstone",
+  "item.terraland.grindstone_pentahydrate": "Grindstone Pentahydrate",
+
+  "item.terraland.d32_steel": "D32 Steel",
+  "item.terraland.bipolar_nanoflake": "Bipolar Nanoflake",
+  "item.terraland.polymerization_preparation": "Polymerization Preparation",
+
+  "block.terraland.originite_prime_block": "Originite Prime(Decoration)",
+  
+  "block.terraland.trading_home":"Factory",
+  "block.terraland.workshop": "Workshop",
+
+  "entity.terraland.exusiai":"Exusiai",
+  "entity.terraland.amiya":"Amiya",
+  "entity.terraland.originium_slug":"Originium Slug",
+  "entity.terraland.crownslayer":"Crownslayer"
+}
